@@ -9,7 +9,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 </a><br>
 
 <a href="https://www.facebook.com/profile.php?id=100028934001640">
-<img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" style="width: 30px; height: 30px;">
+<img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" style="width: 22px; height: 22px;">
 </a><br>
 
 ###     Github Stast
