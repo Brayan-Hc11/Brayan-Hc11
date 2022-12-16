@@ -5,7 +5,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 ###     You can find me 😁🌍:
 
 <a href="https://twitter.com/Brayan_HC11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a><br>
-<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" class="n3VNCb KAlRDb" alt="Cómo twittear: que es un Tweet, atajos de teclado y fuentes" data-noaft="1" style="width: 400px; height: 400px; margin: 0px;">
+<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png"  alt="Cómo twittear: que es un Tweet, atajos de teclado y fuentes" data-noaft="1" style="width: 400px; height: 400px; margin: 0px;">
 
 
 ###     Github Stast
