@@ -37,7 +37,7 @@
 ###  Other Languages I know
 <ol>
 
-| <li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li> |
-| <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> |
+<li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li> 
+<li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> 
 
  </ol>
