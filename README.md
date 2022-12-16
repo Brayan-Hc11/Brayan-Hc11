@@ -1,7 +1,7 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 
 
-<img scr="https://i.pinimg.com/originals/67/a3/3c/67a33ce841b5ebcaf2e722bc14943dac.gif">  
+<img scr="https://i.pinimg.com/originals/67/a3/3c/67a33ce841b5ebcaf2e722bc14943dac.gif" style="width: 30px; height: 30px;">  
 
 
 ###     You can find me 😁🌍:
