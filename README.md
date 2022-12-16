@@ -19,7 +19,7 @@
 
 ---
 ### Tech & Tools Preference
-<aling="center">
+<p aling="center">
 <ol>
 
 <li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
@@ -31,7 +31,7 @@
 <li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li>
  
 </ol>
-</center>
+</p>
 
 ---
 
