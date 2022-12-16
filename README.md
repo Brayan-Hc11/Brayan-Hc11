@@ -1,6 +1,8 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
+
+<p>
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F849843392172718033%2F&psig=AOvVaw3Av5BvXzUtkVJbs7mTN0B2&ust=1671297866393000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMD_3O7T_vsCFQAAAAAdAAAAABA3  
-// En proceso ...
+</p>
 
 ###     You can find me 😁🌍:
 
