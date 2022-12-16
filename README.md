@@ -1,4 +1,7 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
+
+🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
+
 ---
 
 ![JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38](https://user-images.githubusercontent.com/118775234/208208524-a67a73d2-8cb4-49a2-9887-b3308eec045f.gif)
