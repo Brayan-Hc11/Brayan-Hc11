@@ -1,4 +1,4 @@
-### 🎸🎶Hi, i'm Brayan 🤟🏴
+### 🎸🎶Hi, I'm Brayan 🤟🏴
 
 <!--
 **Brayan-Hc11/Brayan-Hc11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
