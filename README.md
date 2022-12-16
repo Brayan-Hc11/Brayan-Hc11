@@ -1,8 +1,6 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 ---
-<center>
 ![giphy](https://user-images.githubusercontent.com/118775234/208202020-d17a10d4-c8b4-4210-bc2f-e0967c8ae277.gif)
-</center>
 
 ---
 ###     You can find me 😁🌍:
@@ -21,6 +19,7 @@
 
 ---
 ### Tech & Tools Preference
+<center>
 <ol>
 
 <li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
@@ -32,6 +31,7 @@
 <li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li>
  
 </ol>
+</center>
 
 ---
 
