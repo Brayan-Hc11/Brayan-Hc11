@@ -9,12 +9,12 @@
 ---
 ###     You can find me 😁🌍:
 
-<a href="https://twitter.com/Brayan_HC11" target="_blank">
-<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 30px; height: 30px;">
-</a>
-
 <a href="https://www.facebook.com/profile.php?id=100028934001640">
 <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-3-1.png" style="width: 22px; height: 22px;">
+</a><br>
+
+<a href="https://twitter.com/Brayan_HC11" target="_blank">
+<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 30px; height: 30px;">
 </a><br>
 
 ---
