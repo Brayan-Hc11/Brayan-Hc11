@@ -1,8 +1,7 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 ---
-<p align="center">
+<align="center">
 ![giphy](https://user-images.githubusercontent.com/118775234/208202020-d17a10d4-c8b4-4210-bc2f-e0967c8ae277.gif)
-</p>
 
 ---
 ###     You can find me 😁🌍:
