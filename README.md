@@ -1,7 +1,10 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 
 
-<img scr="https://i.pinimg.com/originals/67/a3/3c/67a33ce841b5ebcaf2e722bc14943dac.gif" style="width: 330px; height: 330px;">  
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.colombia.com%2Ftecnologia%2Fastronomia%2Fastronomia-galaxias-fechas-307619&psig=AOvVaw2mgU18-twoOQaSWg2rm7Co&ust=1671312971447000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOibjeiX__sCFQAAAAAdAAAAABAa" style="width: 500px; height: 331px;">  
+
+
+https://i.pinimg.com/originals/67/a3/3c/67a33ce841b5ebcaf2e722bc14943dac.gif" style="width: 330px; height: 330px;
 
 
 ###     You can find me 😁🌍:
