@@ -5,6 +5,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 ###     You can find me 😁🌍:
 
 <a href="https://twitter.com/Brayan_HC11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a><br>
+<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Cómo twittear: que es un Tweet, atajos de teclado y fuentes" data-noaft="1" style="width: 22px; height: 22px; margin: 0px;">
 
 
 ###     Github Stast
@@ -30,9 +31,3 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li>
 
  </ol>
- 
-### hh
-- [Twiter] (https://twitter.com/Brayan_HC11)
-https://github-readme-stats.vercel.app/api?username=Brayan-Hc11
-
-//En proceso ...
