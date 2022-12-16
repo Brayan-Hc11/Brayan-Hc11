@@ -4,8 +4,8 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 
 ###     You can find me 😁🌍:
 
-<a href="https://twitter.com/Brayan_HC11" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a><br>
-<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 400px; height: 400px; margin: 0px;">
+<a href="https://twitter.com/Brayan_HC11" target="_blank"><img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 30px; height: 30px; margin: 0px;"></a><br>
+
 
 
 
