@@ -23,6 +23,14 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
  
 </ol>
 
+###  Otros idiomas que conozco
+<ol>
+
+<li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
+<li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li>
+
+ </ol>
+ 
 ### hh
 - [Twiter] (https://twitter.com/Brayan_HC11)
 https://github-readme-stats.vercel.app/api?username=Brayan-Hc11
