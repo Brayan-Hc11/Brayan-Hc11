@@ -31,6 +31,7 @@
 <li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li>
  
 </ol>
+
 ---
 ###  Other Languages I know
 <ol>
