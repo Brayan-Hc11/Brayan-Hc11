@@ -1,9 +1,6 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 ---
 ![giphy](https://user-images.githubusercontent.com/118775234/208202020-d17a10d4-c8b4-4210-bc2f-e0967c8ae277.gif)
-![2DF](https://user-images.githubusercontent.com/118775234/208203463-c8c04271-1ed3-492b-b950-fb08f74118be.gif)
-![descarga](https://user-images.githubusercontent.com/118775234/208203467-b76997df-30d0-4775-80ba-0a1459f5bfa9.png)
-![descarga (1)](https://user-images.githubusercontent.com/118775234/208203468-23e98fd4-56ed-4bf1-ac0b-67a97465b027.png)
 
 ---
 ###     You can find me 😁🌍:
