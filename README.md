@@ -3,6 +3,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 
 ###     You can find me 😁🌍:
 [<img align="left" alt="Brayan-Hc11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+(https://twitter.com/Brayan_HC11)
 
 ###     Github Stast
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&hide_border=true)
