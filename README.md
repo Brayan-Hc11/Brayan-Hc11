@@ -4,10 +4,10 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F84984
 
 ###     You can find me 😁🌍:
 
-<a href="https://twitter.com/Brayan_HC11">[Twitter]</a>
+<a href="https://twitter.com/Brayan_HC11" [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[Twitter]</a>
 <br>
-[<img align="left" alt="Brayan-Hc11 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
 (https://twitter.com/Brayan_HC11)
 // En proceso ...
 
