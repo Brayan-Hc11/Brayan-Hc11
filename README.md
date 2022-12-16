@@ -1,6 +1,11 @@
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 ---
-![giphy](https://user-images.githubusercontent.com/118775234/208202020-d17a10d4-c8b4-4210-bc2f-e0967c8ae277.gif)
+![tumblr_984d9788700fa84518b95b52aaf0361e_53081187_500](https://user-images.githubusercontent.com/118775234/208208514-1d2f54d0-c31e-4090-83ff-31415ebe8bc5.gif)
+![mordecai-rigby](https://user-images.githubusercontent.com/118775234/208208517-a6ed88e4-2ab6-4e21-b8e1-bb2cdc0da4a6.gif)
+![3Rra](https://user-images.githubusercontent.com/118775234/208208519-c6cd30f5-835a-44bf-8959-05d8a2a06fe3.gif)
+![giphy](https://user-images.githubusercontent.com/118775234/208208521-e7c61274-35d5-4f67-9c7d-4068e8498f15.gif)
+![Cyberpunk-After-Effects-Plugins-Displacer-Pro](https://user-images.githubusercontent.com/118775234/208208522-4e042ff6-a046-4a55-aecf-b9c88f911fdf.gif)
+![JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38](https://user-images.githubusercontent.com/118775234/208208524-a67a73d2-8cb4-49a2-9887-b3308eec045f.gif)
 
 ---
 ###     You can find me 😁🌍:
