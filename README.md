@@ -53,4 +53,4 @@
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers
+[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Brayan-Hc11?tab=followers)
