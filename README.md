@@ -52,13 +52,7 @@
 </ol>
   
 ---
-**⭐️ From [TheDudeThatCode](https://github.com/Brayan-Hc11)**
-
-<a href="mailto:brayanhernandezca11@gmail.com">
-  
-<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/Gmail.svg" />
-  
-</a>
+**⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
 <p align="centro">
   Recuento de visitantes<br>
