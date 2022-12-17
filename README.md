@@ -13,8 +13,8 @@
 <img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 30px; height: 30px;">
 </a><br>
 
-<a href="https://twitter.com/Brayan_HC11" target="_blank">
-<img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 30px; height: 30px;">
+<a href="" target="_blank">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Flogotipo-de-facebook-en-forma-circular_44646&psig=AOvVaw3xDN5s8JkDIbnmFnMRwUbq&ust=1671321712395000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjzytms__sCFQAAAAAdAAAAABAE" style="width: 30px; height: 30px;">
 </a><br>
 
 ---
