@@ -1,4 +1,4 @@
-### 🎸🎶Hi, I'm Brayan 🤟🏴<img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blueviolet">
+### 🎸🎶Hi, I'm Brayan 🤟🏴<img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">
 
 🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
 
