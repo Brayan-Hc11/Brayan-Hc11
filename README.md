@@ -27,34 +27,6 @@
 </a><br>
 
 ---
-### Tech & Tools Preference
-
-<ol>
- 
-<li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li>
-<li><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></li>
-<li><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></li>
-<li><img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
-<li><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></li>
-<li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li>
-<li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li>
- 
-</ol>
-
----
-
-###  Other Languages I know
-<ol>
-
-<li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li> 
-<li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> 
-
-</ol>
-  
----
-**⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
-
----
 <table>
   <!--Fila 1-->
     <tr>
@@ -99,3 +71,8 @@
    
                 
 </table>
+  
+---
+**⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
+
+---
