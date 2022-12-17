@@ -7,6 +7,14 @@
 ![JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38](https://user-images.githubusercontent.com/118775234/208208524-a67a73d2-8cb4-49a2-9887-b3308eec045f.gif)
 
 ---
+###     Github Stast
+
+<a href="https://github.com/Brayan-Hc11">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&theme=buefy&layout=compact" />
+</a>
+
+---
 ###     You can find me 😁🌍:
 
 
@@ -17,14 +25,6 @@
 <a href="https://www.facebook.com/profile.php?id=100028934001640" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384879.png" jsaction="load:XAeZkd;" style="width: 30px; height: 30px;">
 </a><br>
-
----
-###     Github Stast
-
-<a href="https://github.com/Brayan-Hc11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&theme=buefy&layout=compact" />
-</a>
 
 ---
 ### Tech & Tools Preference
