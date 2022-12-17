@@ -56,15 +56,20 @@
 
 ---
 <table>
-            <!--Fila 1-->
-            <tr>
-                <th>Tech & Tools Preference</th>
-                <th>Other Languages I know</th>
-            </tr>
-            <!--Fila 2-->
-            <tr>
-                <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
-                <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
-  </tr>
+  <!--Fila 1-->
+    <tr>
+      <th>Tech & Tools Preference</th>
+      <th>Other Languages I know</th>
+    </tr>
+  <!--Fila 2-->
+    <tr>
+       <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
+       <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
+    </tr>
+  <!--Fila 2-->
+    <tr>
+       <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
+       <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
+    </tr>
                 
 </table>
