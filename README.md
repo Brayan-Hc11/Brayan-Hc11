@@ -53,12 +53,12 @@
 
 ---
 
-<a href="mailto:shubhamdeepjha@gmail.com">
+<a href="mailto:brayanhernandezca11@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
 ---
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
+**⭐️ From [TheDudeThatCode](https://github.com/Brayan-Hc11)**
 
 <a href="mailto:shubhamdeepjha@gmail.com">
   
@@ -68,5 +68,5 @@
 
 <p align="centro">
   Recuento de visitantes<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+  <img src="https://profile-counter.glitch.me/Brayan-Hc11/count.svg" />
 </p>
