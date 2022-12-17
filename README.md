@@ -52,3 +52,21 @@
 </ol>
 
 ---
+
+<a href="mailto:shubhamdeepjha@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
+---
+**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
+
+<a href="mailto:shubhamdeepjha@gmail.com">
+  
+<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  
+</a>
+
+<p align="centro">
+  Recuento de visitantes<br>
+  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+</p>
