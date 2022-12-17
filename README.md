@@ -50,19 +50,13 @@
 <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> 
 
 </ol>
-
----
-
-<a href="mailto:brayanhernandezca11@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
   
 ---
 **⭐️ From [TheDudeThatCode](https://github.com/Brayan-Hc11)**
 
-<a href="mailto:shubhamdeepjha@gmail.com">
+<a href="mailto:brayanhernandezca11@gmail.com">
   
-<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+<img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/Gmail.svg" />
   
 </a>
 
