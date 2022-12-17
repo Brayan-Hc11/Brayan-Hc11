@@ -53,8 +53,3 @@
   
 ---
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
-
-<p align="centro">
-  Recuento de visitantes<br>
-  <img src="https://profile-counter.glitch.me/Brayan-Hc11/count.svg" />
-</p>
