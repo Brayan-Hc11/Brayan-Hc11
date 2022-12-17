@@ -63,32 +63,32 @@
             </tr>
             <!--Fila 2-->
             <tr>
-                <td>Teclado gaming</td><!--Etiqueta que se usa para asignar un espacio al elemento de la fila-->
+                <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
                 <td>Teclado</td>
-                <td>29 $</td>
+                
             </tr>
             <!--Fila 3-->
             <tr>
                 <td>Portátil i3 </td>
                 <td>Protátil</td>
-                <td>100 $</td>
+                
             </tr>
             <!--Fila 4-->
             <tr>
                 <td>monitor 24"</td>
                 <td>Monitores</td>
-                <td>190 $</td>
+                
             </tr>
             <!--Fila 5-->
             <tr>
                 <td>Tarjeta gráfica 8gb</td>
                 <td>Graficas</td>
-                <td>456 $</td>
+                
             </tr>
             <!--Fila 6-->
             <tr>
                 <td>Placas base AMD</td>
                 <td>Placas</td>
-                <td>670 $</td>
+               
             </tr>
         </table>
