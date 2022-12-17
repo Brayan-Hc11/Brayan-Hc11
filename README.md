@@ -67,10 +67,19 @@
     <tr>
        <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></td>
        <td><li></li>          </li></td>
-    </tr>
-   
-                
+    </tr>                
 </table>
+
+---
+###     You can find me 😁🌍:
+
+<a href="https://twitter.com/Brayan_HC11" target="_blank">
+<img src="https://i.pinimg.com/originals/91/90/9e/91909e037f7088dfc9fb29a46304db0e.jpg" style="width: 30px; height: 30px;">
+</a><br>
+
+<a href="https://www.facebook.com/profile.php?id=100028934001640" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384879.png" jsaction="load:XAeZkd;" style="width: 30px; height: 30px;">
+</a><br>
   
 ---
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
