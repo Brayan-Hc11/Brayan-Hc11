@@ -64,37 +64,7 @@
             <!--Fila 2-->
             <tr>
                 <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
-                <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li> </td>
-                
-            </tr>
-            <!--Fila 3-->
-            <tr>
-                <td><li><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></li> </td>
-                <td><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> </td>
-                
-            </tr>
-            <!--Fila 4-->
-            <tr>
-                <td><li><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></li></td>
-                <td></td>
-                
-            </tr>
-            <!--Fila 5-->
-            <tr>
                 <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
-                <td></td>
+  </tr>
                 
-            </tr>
-            <!--Fila 6-->
-            <tr>
-                <td><li><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></li></td>
-                <td></td>
-               
-            </tr>
-            <!--Fila 7-->
-            <tr>
-                <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></li></td>
-                <td></td>
-               
-            </tr>
-        </table>
+</table>
