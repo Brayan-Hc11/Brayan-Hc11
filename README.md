@@ -9,6 +9,8 @@
 ---
 ###     You can find me 😁🌍:
 
+<img src="https://i.pinimg.com/originals/91/90/9e/91909e037f7088dfc9fb29a46304db0e.jpg" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Logo De Twitter Icon PNG , Sociales, Medios De Comunicación, Icon PNG y  Vector para Descargar Gratis | Pngtree | Illustration vectorielle, Art  vectoriel, Instagram" data-noaft="1" style="width: 406px; height: 406px; margin: 0px;">
+
 <a href="https://twitter.com/Brayan_HC11" target="_blank">
 <img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png" style="width: 30px; height: 30px;">
 </a><br>
