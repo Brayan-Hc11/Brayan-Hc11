@@ -55,7 +55,7 @@
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
 ---
-<table>
+<table><ol>
   <!--Fila 1-->
     <tr>
       <th>Tech & Tools Preference</th>
@@ -69,7 +69,7 @@
   <!--Fila 2-->
     <tr>
        <td><li><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></li></li></td>
-       <td><li><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> </li></td>
+       <td><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> </li></td>
     </tr>
                 
-</table>
+</table></ol>
