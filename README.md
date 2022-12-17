@@ -14,7 +14,7 @@
 </a><br>
 
 <a href="https://www.facebook.com/profile.php?id=100028934001640" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxsprSO1LA2iy0gXuRA_03ut1U_FlRW8Vung&amp;usqp=CAU" style="width: 30px; height: 30px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384879.png" jsaction="load:XAeZkd;" style="width: 30px; height: 30px;">
 </a><br>
 
 ---
