@@ -55,12 +55,11 @@
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
 ---
-<table><!--Etiqueta que se usa para iniciar las tablas-->
+<table>
             <!--Fila 1-->
-            <tr><!--Etiqueta que se usa para hacer filas-->
-                <th>Producto</th><!--Etiqueta que se usa para poder hacer columnas dentro de la tabla -->
-                <th>Categoria</th>
-                <th>Precio</th>
+            <tr>
+                <th>Tech & Tools Preference</th>
+                <th>Other Languages I know</th>
             </tr>
             <!--Fila 2-->
             <tr>
