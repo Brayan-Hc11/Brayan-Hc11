@@ -68,8 +68,8 @@
     </tr>
   <!--Fila 2-->
     <tr>
-       <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
-       <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
+       <td><li><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></li></li></td>
+       <td><li><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" ></li> </li></td>
     </tr>
                 
 </table>
