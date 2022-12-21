@@ -30,7 +30,6 @@
     <tr>
        <td><li><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></li></td>
        <td><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li></td>
-      
     </tr>
     <!--Fila 4-->
     <tr>
