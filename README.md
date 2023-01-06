@@ -72,11 +72,11 @@
 ---
 ###     You can find me  😁🌍:
 
-<a href="https://www.facebook.com/profile.php?id=100028934001640" target="_blank">-[Facebook]-</a>
-<a href="https://twitter.com/Brayan_HC11" target="_blank">-[Twitter]-</a>
 **⭐️ Follow me in [Brayan-Hernandez](https://www.facebook.com/profile.php?id=100028934001640)⭐️**
-
+**⭐️ Follow me in [Brayan-HC11](https://twitter.com/Brayan_HC11)⭐️**
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11) ⭐️**
+
+
 
 ---
 
