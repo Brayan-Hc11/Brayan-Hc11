@@ -1,4 +1,7 @@
-### 🎸🎶Hi, I'm Brayan 🤟🏴<img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Brayan-Hc11?tab=followers)
+<text-aling="center">
+### 🎸🎶Hi, I'm Brayan 🤟🏴
+
+<img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Brayan-Hc11?tab=followers)
 
 🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
 
@@ -73,3 +76,4 @@
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
 --- 
+</center>
