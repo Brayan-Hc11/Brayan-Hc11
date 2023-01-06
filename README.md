@@ -5,7 +5,8 @@
 
 🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
   
-  ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)
+  [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)](https://github.com/Brayan-Hc11?tab=followers)
+
   [![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow)](https://github.com/Brayan-Hc11?tab=followers)
 
 
