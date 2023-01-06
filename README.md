@@ -45,7 +45,7 @@
     <!--Fila 4-->
     <tr>
        <td><li><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></li></td>
-       <td><li>                  </li></td>
+       <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></li></td>
     </tr>
     <!--Fila 5-->
     <tr>
@@ -56,17 +56,7 @@
     <tr>
        <td><li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li></td>
        <td><li></li>              </li></td>
-    </tr>
-    <!--Fila 7-->
-    <tr>
-       <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></li></td>
-       <td><li></li>            </li></td>
-    </tr>
-    <!--Fila 8-->
-    <tr>
-       <td><li></td>
-       <td><li></li>          </li></td>
-    </tr>                
+    </tr>               
 </table>
 
 ---
