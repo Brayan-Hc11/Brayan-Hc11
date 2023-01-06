@@ -1,9 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Brayan-Hc11?tab=followers)
 
-### 🎸🎶Hi, I'm Brayan 🤟🏴
 <div align="center">
+### 🎸🎶Hi, I'm Brayan 🤟🏴
 🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
 </div>
+
 ---
 
 ![JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38](https://user-images.githubusercontent.com/118775234/208208524-a67a73d2-8cb4-49a2-9887-b3308eec045f.gif)
