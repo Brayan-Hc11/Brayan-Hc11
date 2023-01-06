@@ -29,7 +29,7 @@
 <table>  
   <!--Fila 1-->
     <tr>
-      <th>Tech & Tools Preference</th>
+      <th>Tools Preference</th>
       <th>Other Languages I know</th>
     </tr>
   <!--Fila 2-->
@@ -45,26 +45,26 @@
     <!--Fila 4-->
     <tr>
        <td><li><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></li></td>
-       <td><li></li>        </li></td>
+       <td><li>                  </li></td>
     </tr>
     <!--Fila 5-->
     <tr>
-       <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
-       <td><li></li>         </li></td>
+       <td><li><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></li></td>
+       <td><li>                  </li></td>
     </tr>
     <!--Fila 6-->
     <tr>
-       <td><li><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></li></td>
-       <td><li></li>          </li></td>
+       <td><li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li></td>
+       <td><li></li>              </li></td>
     </tr>
     <!--Fila 7-->
     <tr>
-       <td><li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li></td>
-       <td><li></li>          </li></td>
+       <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></li></td>
+       <td><li></li>            </li></td>
     </tr>
     <!--Fila 8-->
     <tr>
-       <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></td>
+       <td><li></td>
        <td><li></li>          </li></td>
     </tr>                
 </table>
@@ -73,10 +73,10 @@
 ###     You can find me  😁🌍:
 
 **⭐️ Follow me in [Brayan-Hernandez](https://www.facebook.com/profile.php?id=100028934001640)⭐️**
+
 **⭐️ Follow me in [Brayan-HC11](https://twitter.com/Brayan_HC11)⭐️**
+
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11) ⭐️**
-
-
 
 ---
 
