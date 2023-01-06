@@ -23,7 +23,7 @@
 
 ---
   https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
   
 ---
 <table>  
@@ -70,5 +70,3 @@
 
 ---
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11)](https://github.com/ryo-ma/github-profile-trophy)
