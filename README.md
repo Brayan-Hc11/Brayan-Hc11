@@ -4,7 +4,7 @@
   <h2> 🎸🎶Hi, I'm Brayan 🤟🏴</h2>
 
 🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
-</div>
+
 
 ---
 
@@ -74,7 +74,7 @@
 <a href="https://twitter.com/Brayan_HC11" target="_blank">
 <img src="https://i.pinimg.com/originals/91/90/9e/91909e037f7088dfc9fb29a46304db0e.jpg" style="width: 30px; height: 30px;">
 </a><br>
-
+</div>
 ---
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
