@@ -7,9 +7,6 @@
   
   ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)
   
-  https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&logoColor=black&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100028934001640
-  
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&logoColor=black&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100028934001640">
 
 ---
 
