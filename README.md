@@ -6,7 +6,7 @@
 🧙‍♂️I am Brayan Andres, a software programming technician and with great desire and enthusiasm to continue learning many more things in the world of information technology and technology.👋👊
  
   <a href="https://twitter.com/Brayan_HC11" target="_blank">
-    <img scr="https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11">
+    <img scr="https%3A%2F%2Ftwitter.com%2FBrayan_HC11">
          
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)
   </a>
