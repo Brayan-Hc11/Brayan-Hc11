@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=)](https://github.com/Brayan-Hc11?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow)](https://github.com/Brayan-Hc11?tab=followers)
 
 <div align="center">
   <h2> 🎸🎶Hi, I'm Brayan 🤟🏴</h2>
