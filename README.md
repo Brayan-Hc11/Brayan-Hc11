@@ -8,8 +8,6 @@
 
 ---
 ###     Github Stast
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)
 
 <!--a href="https://github.com/Brayan-Hc11">
