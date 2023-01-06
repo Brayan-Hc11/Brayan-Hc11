@@ -12,7 +12,7 @@
 
 ---
 ###   Top Languaje 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=8&show_icons=true&theme=radical)
 
 ---
