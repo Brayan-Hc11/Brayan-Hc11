@@ -7,9 +7,6 @@
   [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)](https://twitter.com/Brayan_HC11?tab=followers)
 [![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow)](https://github.com/Brayan-Hc11?tab=followers)
 
-
-  
-
 ---
 
 ![JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38](https://user-images.githubusercontent.com/118775234/208208524-a67a73d2-8cb4-49a2-9887-b3308eec045f.gif)
@@ -68,7 +65,4 @@
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11) ⭐️**
 
 ---
-
-</div>
-
 </div>
