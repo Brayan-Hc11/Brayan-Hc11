@@ -80,3 +80,5 @@
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
 --- 
+
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)
