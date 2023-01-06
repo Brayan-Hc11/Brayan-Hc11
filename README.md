@@ -1,4 +1,4 @@
-<text-aling="center">
+
 ### 🎸🎶Hi, I'm Brayan 🤟🏴
 
 <img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">[![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Brayan-Hc11?tab=followers)
@@ -76,4 +76,6 @@
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11)**
 
 --- 
-</center>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11)](https://github.com/anuraghazra/github-readme-stats)
