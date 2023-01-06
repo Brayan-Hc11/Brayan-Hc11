@@ -74,10 +74,8 @@
 
 <a href="https://www.facebook.com/profile.php?id=100028934001640" target="_blank">-[Facebook]-</a>
 <a href="https://twitter.com/Brayan_HC11" target="_blank">-[Twitter]-</a>
-**⭐️ From [Brayan-Hernandez](https://www.facebook.com/profile.php?id=100028934001640)⭐️**
+**⭐️ Follow me in [Brayan-Hernandez](https://www.facebook.com/profile.php?id=100028934001640)⭐️**
 
-
----
 **⭐️ From [Brayan-Hc11](https://github.com/Brayan-Hc11) ⭐️**
 
 ---
