@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=8&show_icons=true&theme=radical)
 
 ---
-  https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+### Trophys
   [![trophy](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
   
 ---
