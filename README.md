@@ -13,12 +13,12 @@
 
 ---
 ###     Github Stast
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)
-  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brayan-Hc11&theme=radical&hide_border=verdadero&border_radius=4.4&mode=weekly)](https://git.io/streak-stats)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)-->
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brayan-Hc11&theme=radical&hide_border=verdadero&border_radius=4.4&mode=weekly)](https://git.io/streak-stats)
 
 ---
 ###   Top Languaje 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=8&show_icons=true&theme=radical)-->
 
 ---
