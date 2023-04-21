@@ -14,7 +14,6 @@
 ---
 ###     Github Stast
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brayan-Hc11&theme=radical&hide_border=verdadero&border_radius=4.4&mode=weekly)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Brayan-Hc11&show_icons=true&theme=radical)
 
 ---
