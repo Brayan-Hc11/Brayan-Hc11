@@ -54,7 +54,7 @@
     </tr>
   <!--Fila 3-->
     <tr>
-       <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
+      <td><a href="https://github.com/Brayan-Hc11/Practica_en_HTML"><li>HTML👈</li></a></td>
     </tr>
     <!--Fila 4-->
     <tr>
