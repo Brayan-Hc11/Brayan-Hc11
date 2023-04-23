@@ -45,13 +45,19 @@
   <table>
   <!--Fila 1-->
     <tr>
-      <th>Language Preference</th>
+      <th>⭐️Language Preference⭐️</th>
+      <th>⭐️Otehr Languajes I Know⭐️</th>
     </tr>
   <!--Fila 2-->
     <tr>
       <td>
         <a href="https://github.com/Brayan-Hc11/Practica_en_Python">
           <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">👈</li>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Brayan-Hc11/Practica_en_JavaScript">
+          <li><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=white">👈</li>
         </a>
       </td>
     </tr>
