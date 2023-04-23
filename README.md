@@ -45,7 +45,7 @@
   <table>
   <!--Fila 1-->
     <tr>
-      <th rowspan="6">Language Preference</th>
+      <th>Language Preference</th>
     </tr>
   <!--Fila 2-->
     <tr>
