@@ -36,8 +36,8 @@
 
 ---
 ###  👾❤ Main languages.
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=8&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=100&show_icons=true&theme=radical)
 
 ---
 ### 💻💼 My Favorite Tools.
@@ -49,83 +49,85 @@
       <th>⭐️Otehr Languajes I Know⭐️</th>
     </tr>
   <!--Fila 2-->
-    <tr>
+    <tr align="center">
       <td>
         <a href="https://github.com/Brayan-Hc11/Practica_en_Python">
-          <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">👈</li>
+          👉<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">👈
         </a>
       </td>
       <td>
         <a href="https://github.com/Brayan-Hc11/Practica_en_JavaScript">
-          <li><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=white">👈</li>
+          👉<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white">👈
         </a>
       </td>
     </tr>
   <!--Fila 3-->
-    <tr>
+    <tr align="center">
       <td>
           <a href="https://github.com/Brayan-Hc11/Practica_en_HTML">
-            <li><img src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white">👈</li>
+            👉<img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white">👈
           </a>
       </td>
-    </tr> 
+      <td>
+          <a href="https://github.com/Brayan-Hc11/Pruebas_C-">
+            👉<img src="https://img.shields.io/badge/-c-green?style=flat&logo=c#&logoColor=white">👈
+          </a>
+      </td>
+    </tr>
     <!--Fila 4-->
-    <tr>
+    <tr align="center">
        <td>
          <a href="https://github.com/Brayan-Hc11/Practica_en_PHP">
-           <li><img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&logoColor=white">👈</li>
+          👉<img src="https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white">👈
+         </a>
+       </td>
+       <td>
+         <a href="#">
          </a>
        </td>
     </tr>
     <!--Fila 5-->
-      <tr>
+      <tr align="center">
        <td>
          <a href="https://github.com/Brayan-Hc11/Practica_en_css3">
-           <li><img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=CSS3&logoColor=white">👈</li>
+        👉<img src="https://img.shields.io/badge/-CSS3-purple?style=flat&logo=CSS3&logoColor=white">👈</li>
          </a>
        </td>
+       <td>
+       </td>
     </tr>     
+</table>
+  
+#### 🛠💻Working tools
+  <table>  
+  <!--Fila 1-->
+    <tr align="center">
+      <th>⭐️Tools Preference⭐️</th>
+      <th>⭐️Other Tools I know⭐️</th>
+    </tr>
+  <!--Fila 2-->
+    <tr aling="center">
+       <td><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></td>
+       <td><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></td>
+    </tr>
+  <!--Fila 3-->
+    <tr aling="center">
+      <td><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></td>
+      <td><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></td>
+    </tr>
+    <!--Fila 4-->
+    <tr aling="center">
+       <td></td>
+       <td><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></td>
+     </tr>
+    <!--Fila 5-->       
 </table>
 
 ---
  
 ### Trophys
   [![trophy](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-  
----
-<table>  
-  <!--Fila 1-->
-    <tr>
-      <th>Tools Preference</th>
-      <th>Other Languages I know</th>
-    </tr>
-  <!--Fila 2-->
-    <tr>
-       <td><li><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></li></td>
-       <td><li><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li></td>
-    </tr>
-  <!--Fila 3-->
-    <tr>
-       <td><li><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></li></td>
-       <td><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li></td>
-    </tr>
-    <!--Fila 4-->
-    <tr>
-       <td><li><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></li></td>
-       <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></li></td>
-    </tr>
-    <!--Fila 5-->
-    <tr>
-       <td><li><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></li></td>
-       <td><li>                  </li></td>
-    </tr>
-    <!--Fila 6-->
-    <tr>
-       <td><li><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></li></td>
-       <td><li></li>              </li></td>
-    </tr>               
-</table>
-
+ 
 ---
 ###     You can find me  😁🌍:
 
