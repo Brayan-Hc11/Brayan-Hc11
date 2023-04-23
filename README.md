@@ -50,7 +50,7 @@
   <!--Fila 2-->
     <tr>
       <td>
-        <a href="https://github.com/Brayan-Hc11/Practica_de_Python">
+        <a href="https://github.com/Brayan-Hc11/Practica_en_Python">
           <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">👈</li>
         </a>
       </td>
