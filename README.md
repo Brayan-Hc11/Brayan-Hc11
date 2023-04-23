@@ -41,33 +41,46 @@
 
 ---
 ### 💻💼 My Favorite Tools.
- #### 📚🖱Programming languages
-  
-  <table>   
+  #### 📚🖱Programming languages
+  <table>
   <!--Fila 1-->
     <tr>
       <th rowspan="6">Language Preference</th>
     </tr>
   <!--Fila 2-->
     <tr>
-      <td><a href="https://github.com/Brayan-Hc11/Practica_de_Python"><li>Python👈</li></a></td>
+      <td>
+        <a href="https://github.com/Brayan-Hc11/Practica_de_Python">
+          <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">👈</li>
+        </a>
+      </td>
     </tr>
   <!--Fila 3-->
     <tr>
-      <td><a href="https://github.com/Brayan-Hc11/Practica_en_HTML"><li>HTML👈</li></a></td>
-    </tr>
+      <td>
+          <a href="https://github.com/Brayan-Hc11/Practica_en_HTML">
+            <li><img src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white">👈</li>
+          </a>
+      </td>
+    </tr> 
     <!--Fila 4-->
     <tr>
-       <td><li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li></td>
+       <td>
+         <a href="https://github.com/Brayan-Hc11/Practica_en_PHP">
+           <li><img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&logoColor=white">👈</li>
+         </a>
+       </td>
     </tr>
     <!--Fila 5-->
-    <tr>
-       <td><li><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></li></td>
-    </tr>
-    <!--Fila 6-->             
+      <tr>
+       <td>
+         <a href="https://github.com/Brayan-Hc11/Practica_en_css3">
+           <li><img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=CSS3&logoColor=white">👈</li>
+         </a>
+       </td>
+    </tr>     
 </table>
-  
-  
+
 ---
  
 ### Trophys
