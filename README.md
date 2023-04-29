@@ -32,7 +32,7 @@
 
 
 ### 🗓💥My contributions.
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brayan-Hc11&theme=dracula)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brayan-Hcc11&theme=dracula)
 
 ---
 ###  👾❤ Main languages.
