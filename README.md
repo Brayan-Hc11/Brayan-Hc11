@@ -26,7 +26,7 @@
 ---
 ### 📊Stats and streaks.🗓
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Brayan-Hc11&show_icons=true&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Brayan&show_icons=true&theme=radical)
 
 ---
 
