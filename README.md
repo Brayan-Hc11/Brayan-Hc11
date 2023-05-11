@@ -95,6 +95,18 @@
          </a>
        </td>
        <td>
+         <a href="https://github.com/Brayan-Hc11/terminal">
+        👉<img src="https://img.shields.io/badge/-Terminal-black?style=flat&logo=Terminal&logoColor=white">👈</li>
+       </td>
+    </tr>
+    <!--Fila 6 -->
+    <tr align="center">
+       <td>
+         </a>
+       </td>
+       <td>
+         <a href="https://github.com/Brayan-Hc11/Java">
+        👉<img src="https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white">👈</li>
        </td>
     </tr>     
 </table>
