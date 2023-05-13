@@ -8,7 +8,7 @@
 <h2> 🎸🎶Hi, I'm Brayan 🤟🏴</h2>
 🧙‍♂️I am Brayan Andres, software programming technician and I am currently studying the technologist, I am eager and excited to continue learning about programming and many more things in the world of computers and technology.👋👊
   
-[![Linkedin URL](https://img.shields.io/linkedin/url?color=blue&label=linkedin&logo=linkedin&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)](https://twitter.com/Brayan_HC11?tab=followers)
+
 [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=twitter&logo=twitter&url=https%3A%2F%2Ftwitter.com%2FBrayan_HC11)](https://twitter.com/Brayan_HC11?tab=followers)
 [![GitHub followers](https://img.shields.io/github/followers/Brayan-Hc11.svg?style=social&label=Follow)](https://github.com/Brayan-Hc11?tab=followers)
 
