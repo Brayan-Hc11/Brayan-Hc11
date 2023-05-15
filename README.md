@@ -1,7 +1,7 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <img src="https://komarev.com/ghpvc/?username=Brayan-Hc11&color=blue">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <div align="center">
-  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>  
 ![c99e353f761d318322c853c03ebcf21b](https://user-images.githubusercontent.com/118775234/233747561-7f1f6ab3-1ee1-4ea3-aef6-9404cd78d0e1.gif)
 <!--![JzkswAdkC_uNUj7AySII3I8gjE6U3NlRRTUMPKqSK38](https://user-images.githubusercontent.com/118775234/208208524-a67a73d2-8cb4-49a2-9887-b3308eec045f.gif)-->
   
