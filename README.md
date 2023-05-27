@@ -36,6 +36,8 @@
 
 ### 🗓💥My contributions.
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brayan-Hc11&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brayan-Hc11)
 
 ---
 ###  👾❤ Main languages.
