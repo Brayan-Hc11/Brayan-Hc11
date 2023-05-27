@@ -96,14 +96,15 @@
 [![My tools preference](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My tools preference](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My tools preference](https://img.shields.io/badge/-VS_Studio-purple?style=flat&logo=visual%20studio&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML)  
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-
-### 🏆🏅 My Trophys
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
  
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+### 🏆🏅 My Trophys
+![My trphys](https://github-profile-trophy.vercel.app/?username=Brayan-Hc11&row=1&column=7&theme=radical)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
-<div align="center">
+
 
 ### You can find me  😁🌍:
 
