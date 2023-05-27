@@ -31,13 +31,10 @@
 ### 📊Stats and streaks.🗓
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Brayan-Hc11&show_icons=true&theme=radical)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brayan-Hc11)
-
 
 ### 🗓💥My contributions.
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brayan-Hc11&theme=dracula)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brayan-Hc11)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brayan-Hc11&theme=dracula)
+
 
 ---
 ###  👾❤ Main languages.
