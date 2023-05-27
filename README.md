@@ -157,3 +157,17 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+<details>
+<summary>
+  
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
+
+<br />
