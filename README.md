@@ -27,12 +27,6 @@
  📫 Please [email](brayahernandezca11@gmail.com "Correo electronico personal") me if you have any questions.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
-## 📚📊My Stack
-1 PHP y laravel
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-
 ## 📊 My Stats and Streaks.🗓
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-Hc11&show_icons=true&theme=radical)
   ![GitHub Streak](https://streak-stats.demolab.com/?user=Brayan-Hc11&show_icons=true&theme=radical)
