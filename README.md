@@ -28,6 +28,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
 ## 📚📊My Stack
+1 PHP y laravel
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
