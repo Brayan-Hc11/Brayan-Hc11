@@ -60,23 +60,53 @@
 
 ### ⭐️Language⭐️
 
-[![lanjuage HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)] 
-[![languaje CSS.](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)] 
-[![languaje JavaScrip.](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)] 
-[![lanjuage PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)] 
-[![lanjuage Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)] 
-[![lanjuage Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)]
+[![lanjuage HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)]()
+[![languaje CSS.](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)]()
+[![languaje JavaScrip.](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)]() 
+[![lanjuage PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)]()
+[![lanjuage SQL](https://img.shields.io/badge/-SQL-red?style=flat&logo=sql&logoColor=white)]()
+[![lanjuage Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)]()
+[![lanjuage Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)]() 
+[![languaje Terminal.](https://img.shields.io/badge/-Terminal-black?style=flat&logo=cmd&logoColor=white)](https://github.com/Brayan-Hc11/terminal)
+[![lanjuage POO PHP](https://img.shields.io/badge/-POO_PHP-purple?style=flat&logo=PHP&logoColor=white)]()
+[![lanjuage SASS](https://img.shields.io/badge/-SASS-pink?style=flat&logo=SASS&logoColor=white)]()
+[![lanjuage GIT](https://img.shields.io/badge/-GIT-orange?style=flat&logo=GIT&logoColor=white)]()
 
-### ⭐️Other Languajes I Know⭐️
+</details>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
-[![My public repository of C#.](https://img.shields.io/badge/-C-purple?style=flat&logo=C#&logoColor=white)](https://github.com/Brayan-Hc11/Pruebas_C-) 
-[![My public repository of CSS.](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_css3) 
-[![My public reposotiry of HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) 
-[![My public repository of Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white)](https://github.com/Brayan-Hc11/Java) 
-[![My Public repository of Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)](https://github.com/Brayan-Hc11/MarkDown) 
-[![My Public repository of PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_PHP) 
-[![My public repository of Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_Python) 
-[![My public repository of Terminal.](https://img.shields.io/badge/-Terminal-black?style=flat&logo=terminal&logoColor=white)](https://github.com/Brayan-Hc11/terminal)
+<details>
+<summary>
+
+ ### 🗃💻DataBases
+</summary>
+
+### ⭐️DataBases⭐️
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">relational databases (MySQL)</li>
+  <li class="list-group-item">non-relational databases (NoMySQL)</li>
+</ol>
+
+### ⭐️DataBases tools⭐️
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">AZURE SQL</li>
+  <li class="list-group-item">AZURE POSTGREELSQL</li>
+  <li class="list-group-item">ACCESS SQL</li>
+  <li class="list-group-item">EXCEL </li>
+</ol>
+
+### ⭐️Database Manager⭐️
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">XAMPP</li>
+  <li class="list-group-item">WAMPSERVER</li>
+  <li class="list-group-item">PORSTGREELSQL</li>
+  <li class="list-group-item">SQL SERVER</li>
+  <li class="list-group-item">MONGO DB</li>
+  <li class="list-group-item">ACCESS</li>
+</ol>
 
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
@@ -87,9 +117,11 @@
  ### 🛠💻Working tools
 </summary>
 
-### ⭐️Tools Preference⭐️
+### ⭐️Tools WorKing⭐️
 
-[![My tools preference](https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My tools preference](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My tools preference](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual%20studio%20code&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML)  
+[![tool github](https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) 
+[![My tools git](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) 
+[![My tools preference](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual%20studio%20code&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML)  
 
 ### ⭐️Other Tools I know⭐️
 
