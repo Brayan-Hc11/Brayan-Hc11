@@ -41,31 +41,15 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=100&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&langs_count=100&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-Hc11&layout=compact&show_icons=true&theme=radical)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </div>
 
 <div align="center">
  
-## 💻💼 My working tools.
+## 💻💼 My work pile.
 </div>
-
-<details>
-<summary>
-
-### 📚💻My working repositories  
-</summary>
-
-#### ⭐️My Favorite public repositories.⭐️
-
-[![My Faborite Public repository of PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_PHP) [![My public repository of Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_Python) [![My faborite Public repository of Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)](https://github.com/Brayan-Hc11/MarkDown)
-
-#### ⭐️My public repositories⭐️
-
-[![My public repository of C#.](https://img.shields.io/badge/-C-purple?style=flat&logo=c#&logoColor=white)](https://github.com/Brayan-Hc11/Pruebas_C-) [![My public repository of CSS.](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=)](https://github.com/Brayan-Hc11/Practica_en_css3) [![My public reposotiry of HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My public repository of Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white)](https://github.com/Brayan-Hc11/Java) [![My public repository of JavaScrip.](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_JavaScript) [![My Public repository of Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)](https://github.com/Brayan-Hc11/MarkDown) [![My Public repository of PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_PHP) [![My public repository of Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_Python) [![My public repository of Terminal.](https://img.shields.io/badge/-Terminal-black?style=flat&logo=Terminal&logoColor=white)](https://github.com/Brayan-Hc11/terminal)
-<br/>
-</details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
 <details>
@@ -74,13 +58,26 @@
   ### 📚🖱Programming languages
 </summary>
 
-### ⭐️Language Preference⭐️
+### ⭐️Language⭐️
 
-[![My lanjuage preference is HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My lanjuage preference is Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)](https://github.com/Brayan-Hc11/MarkDown) [![My lanjuage preference is PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_PHP) [![My lanjuage preference is Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_Python)
+[![lanjuage HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)] 
+[![languaje CSS.](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)] 
+[![languaje JavaScrip.](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)] 
+[![lanjuage PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)] 
+[![lanjuage Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)] 
+[![lanjuage Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)]
 
 ### ⭐️Other Languajes I Know⭐️
 
-[![My public repository of C#.](https://img.shields.io/badge/-C-purple?style=flat&logo=C#&logoColor=white)](https://github.com/Brayan-Hc11/Pruebas_C-) [![My public repository of CSS.](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_css3) [![My public reposotiry of HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My public repository of Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white)](https://github.com/Brayan-Hc11/Java) [![My public repository of JavaScrip.](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_JavaScript) [![My Public repository of Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)](https://github.com/Brayan-Hc11/MarkDown) [![My Public repository of PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_PHP) [![My public repository of Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_Python) [![My public repository of Terminal.](https://img.shields.io/badge/-Terminal-black?style=flat&logo=terminal&logoColor=white)](https://github.com/Brayan-Hc11/terminal)
+[![My public repository of C#.](https://img.shields.io/badge/-C-purple?style=flat&logo=C#&logoColor=white)](https://github.com/Brayan-Hc11/Pruebas_C-) 
+[![My public repository of CSS.](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_css3) 
+[![My public reposotiry of HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) 
+[![My public repository of Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white)](https://github.com/Brayan-Hc11/Java) 
+[![My Public repository of Markdown](https://img.shields.io/badge/-MarkDown-white?style=flat&logo=MarkDown&logoColor=black)](https://github.com/Brayan-Hc11/MarkDown) 
+[![My Public repository of PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=PHP&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_PHP) 
+[![My public repository of Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_Python) 
+[![My public repository of Terminal.](https://img.shields.io/badge/-Terminal-black?style=flat&logo=terminal&logoColor=white)](https://github.com/Brayan-Hc11/terminal)
+
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 
