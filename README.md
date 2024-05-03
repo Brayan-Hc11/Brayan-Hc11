@@ -119,14 +119,59 @@
 
 ### ⭐️Tools WorKing⭐️
 
-[![tool github](https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) 
-[![My tools git](https://img.shields.io/badge/-Git-orange?style=flat&logo=Git&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) 
-[![My tools preference](https://img.shields.io/badge/-VS_Code-blue?style=flat&logo=visual%20studio%20code&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML)  
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">PYSEINPT</li>
+  <li class="list-group-item">SUBLIME</li>
+  <li class="list-group-item">VS CODE</li>
+  <li class="list-group-item">WAMPSERVER</li>
+  <li class="list-group-item">XAMPP</li>
+  <li class="list-group-item">GITHUB</li>
+  <li class="list-group-item">CMD</li>
+  <li class="list-group-item">ONEDRIVE</li>
+  <li class="list-group-item">GIT</li>
+  <li class="list-group-item">WORK</li>
+  <li class="list-group-item">POWER POINT</li>
+  <li class="list-group-item">EXCEL</li>
+  <li class="list-group-item">POSTMAN</li>
+  <li class="list-group-item">INSOMNIA</li>
+  <li class="list-group-item">ANDROID STUDIO</li>
+</ol>
 
-### ⭐️Other Tools I know⭐️
+### ⭐️Working skills⭐️
 
-[![My tools preference](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My tools preference](https://img.shields.io/badge/-React-black?style=flat&logo=React&logoColor=blue)](https://github.com/Brayan-Hc11/Practica_en_HTML) [![My tools preference](https://img.shields.io/badge/-VS_Studio-purple?style=flat&logo=visual%20studio&logoColor=white)](https://github.com/Brayan-Hc11/Practica_en_HTML)  
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">APLICACIÓN DE APA</li>
+  <li class="list-group-item">METODOLOGIA BEM</li>
+  <li class="list-group-item">ABREBIACIÓN EMMET</li>
+  <li class="list-group-item">TESTING DE SOFTWARE</li>
+  <li class="list-group-item">DESARROLLO WEB</li>
+  <li class="list-group-item">DISEÑO WEB</li>
+</ol> 
+
+### ⭐️WORK FRAMEWORK⭐️
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">REACT</li>
+  <li class="list-group-item">ANGULAR</li>
+  <li class="list-group-item">BOOTSTRAP</li>
+  <li class="list-group-item">BOOTSWACH</li>
+</ol>
+
+### ⭐️DEVELOPMENT FRAMEWORK⭐️
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">REACT NATIVE</li>
+  <li class="list-group-item">API</li>
+</ol>
+
+### ⭐️ARCHITECTURAL STYLES⭐️
+
+<ol class="list-group list-group-numbered">
+  <li class="list-group-item">API REST</li>
+</ol>
+
 </details>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 <div align="center">
  
