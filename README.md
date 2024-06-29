@@ -197,8 +197,6 @@ Mi objetivo profesional es seguir creciendo en el campo del desarrollo de softwa
 
 **⭐️  Puedes encontrarme en Gmail como: BrayanAndresHernandezColon@gmail.com ⭐️**
 
- 
-📫 Please [email](brayahernandezca11@gmail.com "Correo electronico personal") me if you have any questions.
 </div>
 
 
